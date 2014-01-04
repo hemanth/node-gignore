@@ -1,5 +1,5 @@
 {
-  "name": "node-gignore",
+  "name": "gignore",
   "version": "0.0.1",
   "description": ".gitignore files for your project from gitignore.io",
   "main": "index.js",
